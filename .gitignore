@@ -1,0 +1,2 @@
+# Ignore data directory; users should have a copy of the data locally
+PDB-fftmap
