@@ -1,0 +1,17 @@
+name: TransmembraneBindingDB
+
+channels:
+  - conda-forge
+  - rdkit
+  - anaconda
+
+dependencies:
+  - python>=3.9
+  - biopandas
+  - matplotlib
+  - numpy
+  - rdkit
+  - py3dmol
+  - scipy
+  - ipykernel
+  - pip
